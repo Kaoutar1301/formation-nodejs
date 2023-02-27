@@ -1,1 +1,2 @@
 # formation-nodejs
+Cette formation est destinée aux développeurs JavaScript débutants et intermédiaires qui souhaitent se familiariser avec Node.js et apprendre à construire des applications web efficaces et performantes. Nous vous recommandons d'avoir une compréhension de base de JavaScript avant de commencer cette formation.
